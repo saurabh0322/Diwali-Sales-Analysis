@@ -32,15 +32,7 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 
 ### 7️⃣ Top 10 States by Sales Amount
 ![Top States Sales](images/top_states_sales.png)
-
-## 📂 Dataset
-Diwali Sales dataset (CSV format)
-
-## 🚀 Conclusion
-- Female customers contribute higher sales during Diwali  
-- Most purchases come from the 26–35 age group  
-- Certain states dominate festive sales  
-- Electronics and clothing categories perform the best  
+  
 
 ## 👤 Author
 **Saurabh**
